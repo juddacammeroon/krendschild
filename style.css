@@ -19,6 +19,13 @@ section {
 	width: 100%;
 }
 
+.force-hide {
+	display: none !important;
+	visibility: hidden !important;
+	opacity: 0 !important;
+	background-color: transparent !important;
+}
+
 #content.site-content > .container {
 	width: 100%;
 }
